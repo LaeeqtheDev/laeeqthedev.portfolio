@@ -81,7 +81,7 @@ const ItemContainer = styled.div`
 
 const Box = styled(motion.div)`
   height: 8rem;
-  width: 42rem;
+  width: 30rem;
   position: relative;
   border-radius: 26px;
   padding: 2rem; /* Increase padding to create space for the text */
