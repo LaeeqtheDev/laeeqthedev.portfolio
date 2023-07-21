@@ -22,7 +22,7 @@ const Hero = () => {
         </Helmet>
         <div className="relative flex justify-center items-center">
           {/* Apply styling to center the spline-viewer */}
-          <div className="container" style={{ maxWidth: '850px', margin: '0 auto', marginRight: '72px', height: '550px' }}>
+          <div className="container items-center justify-center" style={{ maxWidth: '850px', margin: '0 auto', marginRight: '72px', height: '550px' }}>
             <spline-viewer
               className="w-full"
               style={{ height: '450px' }}
