@@ -26,7 +26,7 @@ const Hero = () => {
             <spline-viewer
               className="w-full"
               style={{ height: '450px' }}
-              url="https://prod.spline.design/nLJTrk8YGddhCGCD/scene.splinecode"
+              url="https://prod.spline.design/EzsdXCbTfg6NyRmn/scene.splinecode"
             />
           </div>
         </div>
