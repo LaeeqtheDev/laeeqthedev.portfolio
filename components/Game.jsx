@@ -2,7 +2,6 @@
 // Hero.jsx
 import React, { useEffect } from 'react';
 import { Helmet } from 'react-helmet';
-import React, { useEffect } from 'react';
 
 const Hero = () => {
   useEffect(() => {
@@ -24,8 +23,7 @@ const Hero = () => {
           {/* Apply styling to center the spline-viewer */}
           <div className="container items-center justify-center w-full" style={{ margin: '0 auto', marginLeft: '35px', height: '550px' }}>
             <spline-viewer
-              className="w-full"
-              style={{ height: '450px' }}
+              style={{ height: '450px', width: '100%' }} // Add width property
               url="https://prod.spline.design/EzsdXCbTfg6NyRmn/scene.splinecode"
             />
           </div>
