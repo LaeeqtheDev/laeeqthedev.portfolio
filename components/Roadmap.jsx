@@ -65,7 +65,7 @@ const Item = styled.li`
 `;
 
 const ItemContainer = styled.div`
-  width: 42%;
+  width: 32%;
   height: fit-content;
   padding: 1rem;
   border: 2px solid ${props => props.theme.text};
