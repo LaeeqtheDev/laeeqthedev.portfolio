@@ -1,5 +1,4 @@
-"use client"
-// Hero.jsx
+"use client";
 import React, { useEffect } from 'react';
 import { Helmet } from 'react-helmet';
 
@@ -21,9 +20,9 @@ const Hero = () => {
       <section className="container text-gray-600 body-font relative">
         <div className="relative flex justify-center items-center">
           {/* Apply styling to center the spline-viewer */}
-          <div className="container items-center justify-center w-full" style={{ margin: '0 auto', marginLeft: '35px', height: '550px' }}>
+          <div className="container items-center justify-center w-full" style={{ margin: '0 auto', marginLeft: '35px', height: '550px', width: '800px' }}>
             <spline-viewer
-              style={{ height: '450px', width: '100%' }} // Add width property
+              style={{ height: '450px', width: '100%' }}
               url="https://prod.spline.design/EzsdXCbTfg6NyRmn/scene.splinecode"
             />
           </div>
