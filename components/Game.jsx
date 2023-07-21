@@ -26,9 +26,9 @@ const Hero = () => {
               display: 'flex',   // Add this to make it a flex container
               justifyContent: 'center', // Add this to center its content horizontally
               margin: '0 auto',
-              marginLeft: '10px',
+              marginRight: '50px',
               height: '550px',
-              width: '800px',
+              width: '850px',
             }}
           >
             <spline-viewer
