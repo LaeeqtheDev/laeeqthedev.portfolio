@@ -28,7 +28,7 @@ const Hero = () => {
               margin: '0 auto',
               marginRight: '50px',
               height: '550px',
-              width: '1050px',
+              width: '1250px',
             }}
           >
             <spline-viewer
