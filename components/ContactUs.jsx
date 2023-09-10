@@ -5,14 +5,14 @@ const ContactUs = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     // Redirect to the user's mailbox with the email address pre-filled
-    window.location.href = 'mailto:laeeqahmed656@gmail.com';
+    window.location.href = 'mailto:CSUnicornProductionsUK@gmail.com';
   };
 
   return (
     <section className="text-gray-600 body-font relative">
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-col text-center w-full mb-12">
-          <h1 className="sm:text-4xl text-4xl font-medium title-font mb-4 text-purple-600">Reach Me Out</h1>
+          <h1 className="sm:text-4xl text-4xl font-medium title-font mb-4 text-purple-600">Reach Out to US</h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">I'd love to hear from you! If you have any questions, inquiries, or collaboration opportunities related to frontend development, cloud-based services, or anything else, feel free to reach out to me using the contact form below. I'll get back to you as soon as possible.</p>
         </div>
         <div className="lg:w-1/2 md:w-2/3 mx-auto">
