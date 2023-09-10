@@ -178,11 +178,10 @@ const Roadmap = () => {
         </SvgContainer>
         <Items>
           <Item>&nbsp;</Item>
-          <RoadmapItem title="Worked as Associate FrontEnd Developer @NextGEN (HTML, CSS , JS)   " subtext="Aug 2018 to Nov 2018" />
-          <RoadmapItem title="Worked as FrontEnd Developer @Traffic Digital (HTML, CSS, JS, REACT.JS)" subtext="Dec 2018 to Nov 2019" />
-          <RoadmapItem title="Worked As FrontEnd Developer @Propellor (HTML, CSS, JS, REACT.JS, Firebase)" subtext="Jan 2021 to Sept 2021" />
-          <RoadmapItem title="Worked As FrontEnd Developer @Greenlabs (HTML, CSS, JS, REACT.JS, Firebase, Sanity)" subtext="Oct 2021 to June 2022" />
-          <RoadmapItem title="Worked As FullStack Developer @PIXELETTE (HTML, CSS, REACT.JS, NEXT.JS, FIREBASE, SANITY, MONGODB, NODE.JS) " subtext="july 2022 to Present" />
+          <RoadmapItem title="Worked with PenTutor, to develope a Platform for students during Covid (MERN STACK)   " subtext="Aug 2018 to Feb 2019" />
+          <RoadmapItem title="Worked with @Traffic Digital (HTML, CSS, JS, REACT.JS)" subtext="Dec 2019 to Nov 2023" />
+          
+         
         </Items>
       </Container>
     </Section>
