@@ -12,11 +12,7 @@ const clientLogos = [
   'images/logo1.png',
   'images/logo7.png',
   'images/logo20.jpeg',
-  'images/logo30.png',
-  'images/logo 40.jpeg',
-  'images/logo50.png',
-  'images/logo60.jpeg',
-  'images/logo70.png',
+ 
   
  
   
